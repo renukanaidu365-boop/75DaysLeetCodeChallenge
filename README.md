@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Greedy
