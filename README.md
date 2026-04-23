@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -207,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
