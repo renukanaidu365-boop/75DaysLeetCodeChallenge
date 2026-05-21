@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
