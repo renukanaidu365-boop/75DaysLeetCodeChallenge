@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
