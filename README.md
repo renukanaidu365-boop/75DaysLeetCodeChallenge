@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
