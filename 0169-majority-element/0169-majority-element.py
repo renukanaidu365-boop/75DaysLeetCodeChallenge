@@ -1,11 +1,21 @@
+
+from collections import defaultdict
+from typing import List
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count = 0
-        candidate = None
-        
+        n = len(nums)
+
+        result = 0
+
+        mpp = defaultdict(int)
+
+        mini = n // 2 + 1
+
         for num in nums:
-            if count == 0:
-                candidate = num
-            count += (1 if num == candidate else -1)
+            mpp[num] += 1
+            if mpp[num] == mini:
+                result=num
+
         
-        return candidate
+
+        return result
