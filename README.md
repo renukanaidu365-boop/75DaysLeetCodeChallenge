@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
