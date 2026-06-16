@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
