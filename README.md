@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Greedy
