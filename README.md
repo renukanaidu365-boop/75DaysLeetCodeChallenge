@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
@@ -229,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Math
 | Problem Name | Difficulty |
