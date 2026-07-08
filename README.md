@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
