@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2469-convert-the-temperature/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
