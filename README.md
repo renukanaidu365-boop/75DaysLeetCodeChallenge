@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2469-convert-the-temperature/) | Easy |
 ## Monotonic Stack
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
