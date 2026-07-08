@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0319-bulb-switcher](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2469-convert-the-temperature/) | Easy |
 ## Monotonic Stack
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
