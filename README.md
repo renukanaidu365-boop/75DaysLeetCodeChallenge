@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2469-convert-the-temperature/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -401,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
