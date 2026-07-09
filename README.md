@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0319-bulb-switcher](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 ## Combinatorics
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0319-bulb-switcher/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
