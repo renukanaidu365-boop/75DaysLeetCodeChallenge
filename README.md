@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0575-distribute-candies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0575-distribute-candies/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
+| [0575-distribute-candies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0575-distribute-candies/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
