@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1089-duplicate-zeros/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
