@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [1089-duplicate-zeros](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1089-duplicate-zeros/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1089-duplicate-zeros/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
