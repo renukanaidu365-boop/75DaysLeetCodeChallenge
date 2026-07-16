@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1089-duplicate-zeros/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2469-convert-the-temperature/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,11 +448,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
