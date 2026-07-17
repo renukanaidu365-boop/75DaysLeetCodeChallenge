@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Divide and Conquer
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
