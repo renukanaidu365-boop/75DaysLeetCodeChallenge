@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
@@ -69,8 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
@@ -96,8 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0018-4sum/) | Medium |
@@ -116,8 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
@@ -134,47 +134,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -184,8 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
@@ -215,8 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
@@ -234,14 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -251,8 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
@@ -266,20 +266,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
@@ -299,14 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -320,8 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
@@ -330,8 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -345,8 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -362,8 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
@@ -371,8 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -386,48 +386,48 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
@@ -435,44 +435,44 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0319-bulb-switcher](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0319-bulb-switcher/) | Medium |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
