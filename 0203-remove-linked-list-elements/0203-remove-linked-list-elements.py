@@ -7,12 +7,12 @@ class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
         if head is None:
             return None
-        c=head 
-        while head and head.val==val:
-            head=head.next
-        while c.next and c:
+        d=ListNode(0)
+        d.next=head
+        c=d
+        while c and c.next:
             if c.next.val==val:
-                c.next=c.next.next
+                c.next=c.next.next 
             else:
                 c=c.next
-        return head
+        return d.next
