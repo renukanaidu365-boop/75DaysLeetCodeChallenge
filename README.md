@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1260-shift-2d-grid/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
