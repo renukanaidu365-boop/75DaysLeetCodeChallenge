@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
+| [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1260-shift-2d-grid/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
