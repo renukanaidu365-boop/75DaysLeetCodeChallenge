@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Divide and Conquer
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
