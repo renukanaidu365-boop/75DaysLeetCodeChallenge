@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0575-distribute-candies/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [0622-design-circular-queue](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
@@ -283,12 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0622-design-circular-queue](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
