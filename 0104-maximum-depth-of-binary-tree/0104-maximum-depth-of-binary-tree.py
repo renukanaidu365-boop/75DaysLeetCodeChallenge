@@ -10,8 +10,5 @@ class Solution:
             return 0 
         l=self.maxDepth(root.left)
         r=self.maxDepth(root.right)
-        if l==0:
-            return r+1 
-        if r==0:
-            return l+1 
+        
         return 1+max(l,r)
