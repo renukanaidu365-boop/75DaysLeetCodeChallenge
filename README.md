@@ -283,11 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
