@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
