@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1089-duplicate-zeros/) | Easy |
 | [1260-shift-2d-grid](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1260-shift-2d-grid/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0997-find-the-town-judge](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0933-number-of-recent-calls/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
