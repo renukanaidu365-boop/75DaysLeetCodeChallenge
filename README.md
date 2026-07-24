@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
+| [0695-max-area-of-island](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0695-max-area-of-island](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0695-max-area-of-island](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
