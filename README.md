@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
