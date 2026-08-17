@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3731-find-missing-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3731-find-missing-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
