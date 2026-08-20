@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
+| [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0575-distribute-candies/) | Easy |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -551,4 +553,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
