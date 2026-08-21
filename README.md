@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
