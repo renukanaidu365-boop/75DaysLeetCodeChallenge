@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3731-find-missing-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
