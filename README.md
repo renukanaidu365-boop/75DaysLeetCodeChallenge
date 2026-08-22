@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
