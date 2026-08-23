@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0229-majority-element-ii/) | Medium |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
@@ -584,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
