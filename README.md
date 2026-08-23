@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0695-max-area-of-island](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
 ## Combinatorics
@@ -582,10 +585,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0518-coin-change-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
