@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1251-average-selling-price](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1251-average-selling-price/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
