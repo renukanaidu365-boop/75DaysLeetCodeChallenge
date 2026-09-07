@@ -3,10 +3,8 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        n=len(s)
-        l,r=0,n-1
-        while l<=r:
-            s[l],s[r]=s[r],s[l]
-            l+=1 
-            r-=1 
-        return s
+        ch=[]
+        for i in range(len(s)-1,-1,-1):
+            ch.append(s[i])
+        for i in range(len(s)):
+            s[i]=ch[i]
