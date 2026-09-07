@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -609,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
