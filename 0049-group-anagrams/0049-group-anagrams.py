@@ -5,5 +5,5 @@ class Solution:
         for word in strs:
             s = ''.join(sorted(word))
             a[s].append(word)
-        res = list(a.values())
-        return res
+            
+        return  list(a.values())
