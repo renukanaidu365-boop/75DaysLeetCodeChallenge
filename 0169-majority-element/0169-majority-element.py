@@ -1,10 +1,9 @@
-
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        ca=None
-        c=0
+    def majorityElement(self, nums: list[int]) -> int:
+        n=len(nums)
+        a={}
         for i in nums:
-            if c==0:
-                ca=i 
-            c+=1 if ca==i else -1
-        return ca
+            a[i]=a.get(i,0)+1 
+        for i,c in a.items():
+            if c>n//2:
+                return i
