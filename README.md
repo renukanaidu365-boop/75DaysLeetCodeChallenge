@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
