@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/renukanaidu365-boop/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
